@@ -1,0 +1,16 @@
+.counterItem {
+    
+    color:white;
+    background-color:red;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    font-size: 10px;
+    border-radius: 50%;
+    display: inline-grid;
+    justify-content: space-evenly;
+    align-items: center;
+
+   
+ 
+}
